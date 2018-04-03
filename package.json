@@ -1,0 +1,15 @@
+{
+  "name": "albumsorter",
+  "version": "1.0.0",
+  "description": "cool",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "APACHE-2.0",
+  "dependencies": {
+    "adler32-js": "^1.0.2",
+    "colors": "^1.1.2"
+  }
+}
